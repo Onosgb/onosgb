@@ -3,13 +3,15 @@
 	"version": "1.0.0",
 	"description": "Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.",
 	"main": "index.js",
-	"repository": "https://github.com/onosgb/onosgb.git",
+	"homepage": "https://Onosgb.github.io/onosgb",
 	"author": "Godbless Onoriode",
 	"license": "MIT",
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
 		"start": "next start",
+		"predeploy": "yarn build",
+		"deploy": "gh-pages -d build",
 		"lint": "next lint"
 	},
 	"dependencies": {
