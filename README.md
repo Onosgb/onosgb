@@ -97,12 +97,12 @@ For adding emoji 😃 into the texts in `Portfolio.js`, use the `emoji()` functi
 -   [Lottie File Source](https://lottiefiles.com)
 
 
-👤 **Hanzla Tauqeer**
+👤 **Godbless Onoriode**
 
 -   Website: https://onosgb.herokuapp.com
--   Twitter: [@1hanzla100](https://twitter.com/onosgb25)
--   Github: [@1hanzla100](https://github.com/onosgb)
--   LinkedIn: [@1hanzla100](https://www.linkedin.com/in/godbless-onoriode-a33587127/)
+-   Twitter: [@onosgb25](https://twitter.com/onosgb25)
+-   Github: [@onosgb](https://github.com/onosgb)
+-   LinkedIn: [@godbless-onoriode-a33587127](https://www.linkedin.com/in/godbless-onoriode-a33587127/)
 
 ## Show your support
 
