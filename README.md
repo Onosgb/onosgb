@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/onosgb/onosgb/picture.PNG"></img>
+    <img src="https://github.com/Onosgb/Onosgb/blob/main/picture.PNG"></img>
   </kbd>
 </p>
 
