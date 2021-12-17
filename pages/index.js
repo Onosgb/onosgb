@@ -22,8 +22,8 @@ export default function Home({ githubProfileData }) {
 					title: "Godbless Onoriode",
 					description:
 						"A passionate Full Stack Web Developer and Mobile App Developer.",
-					image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-					url: "https://developer-portfolio-1Onosgb100.vercel.app",
+					image: "https://avatars.githubusercontent.com/u/21205258?v=4",
+					url: "https://onosgb.herokuapp.com",
 					keywords: [
 						"Onosgb",
 						"Onosgb Tauqeer",
