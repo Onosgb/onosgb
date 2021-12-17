@@ -2,7 +2,7 @@ exports.id = 152;
 exports.ids = [152];
 exports.modules = {
 
-/***/ 8771:
+/***/ 771:
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
 "use strict";
@@ -21,9 +21,9 @@ __webpack_unused_export__ = ({
 __webpack_unused_export__ = noSSR;
 exports.default = dynamic;
 
-var _react = _interopRequireDefault(__webpack_require__(9297));
+var _react = _interopRequireDefault(__webpack_require__(297));
 
-var _loadable = _interopRequireDefault(__webpack_require__(2307));
+var _loadable = _interopRequireDefault(__webpack_require__(307));
 
 function _interopRequireDefault(obj) {
   return obj && obj.__esModule ? obj : {
@@ -118,10 +118,10 @@ function dynamic(dynamicOptions, options) {
 
 /***/ }),
 
-/***/ 5152:
+/***/ 860:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__(8771)
+module.exports = __webpack_require__(771)
 
 
 /***/ })

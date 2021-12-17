@@ -2,39 +2,37 @@
   "index.js -> ../components/GithubProfileCard": {
     "id": 9551,
     "files": [
-      "static/chunks/commons.e1acf7b6bd545d1da3cb.js",
-      "static/chunks/675.b5c9499f253bf5e8de00.js",
-      "static/chunks/551.032724771762e198ea71.js"
+      "static/chunks/commons.1ed4e9bb45095f58192e.js",
+      "static/chunks/551.28acf729e6d8eac55cdb.js"
     ]
   },
   "index.js -> ../components/Navigation": {
     "id": 1590,
     "files": [
-      "static/chunks/commons.e1acf7b6bd545d1da3cb.js",
+      "static/chunks/commons.1ed4e9bb45095f58192e.js",
       "static/chunks/317.f916bb73e570872a60e7.js",
-      "static/chunks/590.e70107dadc6a0393b063.js"
+      "static/chunks/590.977367a4f1df159458ba.js"
     ]
   },
   "index.js -> ../containers/Education": {
     "id": 4051,
     "files": [
-      "static/chunks/commons.e1acf7b6bd545d1da3cb.js",
+      "static/chunks/commons.1ed4e9bb45095f58192e.js",
       "static/chunks/51.feaa3b0387368f48f281.js"
     ]
   },
   "index.js -> ../containers/Experience": {
     "id": 3974,
     "files": [
-      "static/chunks/commons.e1acf7b6bd545d1da3cb.js",
-      "static/chunks/675.b5c9499f253bf5e8de00.js",
-      "static/chunks/39.311a787254d537c38694.js",
+      "static/chunks/commons.1ed4e9bb45095f58192e.js",
+      "static/chunks/606.f3f5426df7d0f81f8b19.js",
       "static/chunks/974.b1f9496fae332db16c0a.js"
     ]
   },
   "index.js -> ../containers/Feedbacks": {
     "id": 3519,
     "files": [
-      "static/chunks/commons.e1acf7b6bd545d1da3cb.js",
+      "static/chunks/commons.1ed4e9bb45095f58192e.js",
       "static/chunks/519.0c732ef97b175089abab.js"
     ]
   },
@@ -42,7 +40,7 @@
     "id": 3185,
     "files": [
       "static/chunks/ea88be26.81d510478953a854a913.js",
-      "static/chunks/commons.e1acf7b6bd545d1da3cb.js",
+      "static/chunks/commons.1ed4e9bb45095f58192e.js",
       "static/chunks/185.b67299c55c28f7fd6a9b.js"
     ]
   },
@@ -50,14 +48,14 @@
     "id": 7338,
     "files": [
       "static/chunks/ea88be26.81d510478953a854a913.js",
-      "static/chunks/commons.e1acf7b6bd545d1da3cb.js",
+      "static/chunks/commons.1ed4e9bb45095f58192e.js",
       "static/chunks/338.c3aae9d1476f18614a5c.js"
     ]
   },
   "index.js -> ../containers/Projects": {
     "id": 4829,
     "files": [
-      "static/chunks/commons.e1acf7b6bd545d1da3cb.js",
+      "static/chunks/commons.1ed4e9bb45095f58192e.js",
       "static/chunks/829.81d0510cbdf13f31ffe4.js"
     ]
   },
@@ -65,7 +63,7 @@
     "id": 5688,
     "files": [
       "static/chunks/ea88be26.81d510478953a854a913.js",
-      "static/chunks/commons.e1acf7b6bd545d1da3cb.js",
+      "static/chunks/commons.1ed4e9bb45095f58192e.js",
       "static/chunks/317.f916bb73e570872a60e7.js",
       "static/chunks/546.f5571792cb76df6c8423.js",
       "static/chunks/688.ba84e73f5be869df9c2c.js"

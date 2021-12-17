@@ -5,7 +5,7 @@ exports.id = 405;
 exports.ids = [405];
 exports.modules = {
 
-/***/ 1152:
+/***/ 152:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 // ESM COMPAT FLAG
@@ -18,19 +18,19 @@ __webpack_require__.d(__webpack_exports__, {
 });
 
 // EXTERNAL MODULE: ./node_modules/next/dynamic.js
-var dynamic = __webpack_require__(5152);
+var dynamic = __webpack_require__(860);
 ;// CONCATENATED MODULE: external "prop-types"
 const external_prop_types_namespaceObject = require("prop-types");
 var external_prop_types_default = /*#__PURE__*/__webpack_require__.n(external_prop_types_namespaceObject);
 // EXTERNAL MODULE: ./portfolio.js + 1 modules
-var portfolio = __webpack_require__(4644);
+var portfolio = __webpack_require__(644);
 // EXTERNAL MODULE: external "react"
-var external_react_ = __webpack_require__(9297);
+var external_react_ = __webpack_require__(297);
 ;// CONCATENATED MODULE: external "next/head"
 const head_namespaceObject = require("next/head");
 var head_default = /*#__PURE__*/__webpack_require__.n(head_namespaceObject);
 // EXTERNAL MODULE: external "react/jsx-runtime"
-var jsx_runtime_ = __webpack_require__(5282);
+var jsx_runtime_ = __webpack_require__(282);
 ;// CONCATENATED MODULE: ./components/SEO.jsx
 
 
@@ -132,57 +132,57 @@ SEO.prototype = {
 ;// CONCATENATED MODULE: ./pages/index.js
 
 
-const Navigation = (0,dynamic.default)(() => Promise.all(/* import() */[__webpack_require__.e(426), __webpack_require__.e(664), __webpack_require__.e(990)]).then(__webpack_require__.bind(__webpack_require__, 7271)), {
+const Navigation = (0,dynamic.default)(() => __webpack_require__.e(/* import() */ 271).then(__webpack_require__.bind(__webpack_require__, 271)), {
   loadableGenerated: {
-    webpack: () => [/*require.resolve*/(7271)],
+    webpack: () => [/*require.resolve*/(271)],
     modules: ["index.js -> " + "../components/Navigation"]
   }
 });
-const Greetings = (0,dynamic.default)(() => Promise.all(/* import() */[__webpack_require__.e(794), __webpack_require__.e(185)]).then(__webpack_require__.bind(__webpack_require__, 3185)), {
+const Greetings = (0,dynamic.default)(() => Promise.all(/* import() */[__webpack_require__.e(794), __webpack_require__.e(185)]).then(__webpack_require__.bind(__webpack_require__, 185)), {
   loadableGenerated: {
-    webpack: () => [/*require.resolve*/(3185)],
+    webpack: () => [/*require.resolve*/(185)],
     modules: ["index.js -> " + "../containers/Greetings"]
   }
 });
-const Skills = (0,dynamic.default)(() => __webpack_require__.e(/* import() */ 688).then(__webpack_require__.bind(__webpack_require__, 5688)), {
+const Skills = (0,dynamic.default)(() => __webpack_require__.e(/* import() */ 688).then(__webpack_require__.bind(__webpack_require__, 688)), {
   loadableGenerated: {
-    webpack: () => [/*require.resolve*/(5688)],
+    webpack: () => [/*require.resolve*/(688)],
     modules: ["index.js -> " + "../containers/Skills"]
   }
 });
-const Proficiency = (0,dynamic.default)(() => __webpack_require__.e(/* import() */ 716).then(__webpack_require__.bind(__webpack_require__, 3716)), {
+const Proficiency = (0,dynamic.default)(() => __webpack_require__.e(/* import() */ 716).then(__webpack_require__.bind(__webpack_require__, 716)), {
   loadableGenerated: {
-    webpack: () => [/*require.resolve*/(3716)],
+    webpack: () => [/*require.resolve*/(716)],
     modules: ["index.js -> " + "../containers/Proficiency"]
   }
 });
-const Education = (0,dynamic.default)(() => __webpack_require__.e(/* import() */ 758).then(__webpack_require__.bind(__webpack_require__, 8758)), {
+const Education = (0,dynamic.default)(() => __webpack_require__.e(/* import() */ 758).then(__webpack_require__.bind(__webpack_require__, 758)), {
   loadableGenerated: {
-    webpack: () => [/*require.resolve*/(8758)],
+    webpack: () => [/*require.resolve*/(758)],
     modules: ["index.js -> " + "../containers/Education"]
   }
 });
-const Experience = (0,dynamic.default)(() => Promise.all(/* import() */[__webpack_require__.e(426), __webpack_require__.e(675), __webpack_require__.e(974)]).then(__webpack_require__.bind(__webpack_require__, 3974)), {
+const Experience = (0,dynamic.default)(() => Promise.all(/* import() */[__webpack_require__.e(675), __webpack_require__.e(974)]).then(__webpack_require__.bind(__webpack_require__, 974)), {
   loadableGenerated: {
-    webpack: () => [/*require.resolve*/(3974)],
+    webpack: () => [/*require.resolve*/(974)],
     modules: ["index.js -> " + "../containers/Experience"]
   }
 });
-const Projects = (0,dynamic.default)(() => __webpack_require__.e(/* import() */ 829).then(__webpack_require__.bind(__webpack_require__, 4829)), {
+const Projects = (0,dynamic.default)(() => __webpack_require__.e(/* import() */ 829).then(__webpack_require__.bind(__webpack_require__, 829)), {
   loadableGenerated: {
-    webpack: () => [/*require.resolve*/(4829)],
+    webpack: () => [/*require.resolve*/(829)],
     modules: ["index.js -> " + "../containers/Projects"]
   }
 });
-const Feedbacks = (0,dynamic.default)(() => __webpack_require__.e(/* import() */ 519).then(__webpack_require__.bind(__webpack_require__, 3519)), {
+const Feedbacks = (0,dynamic.default)(() => __webpack_require__.e(/* import() */ 519).then(__webpack_require__.bind(__webpack_require__, 519)), {
   loadableGenerated: {
-    webpack: () => [/*require.resolve*/(3519)],
+    webpack: () => [/*require.resolve*/(519)],
     modules: ["index.js -> " + "../containers/Feedbacks"]
   }
 });
-const GithubProfileCard = (0,dynamic.default)(() => Promise.all(/* import() */[__webpack_require__.e(426), __webpack_require__.e(675), __webpack_require__.e(794), __webpack_require__.e(551)]).then(__webpack_require__.bind(__webpack_require__, 9551)), {
+const GithubProfileCard = (0,dynamic.default)(() => Promise.all(/* import() */[__webpack_require__.e(794), __webpack_require__.e(551)]).then(__webpack_require__.bind(__webpack_require__, 551)), {
   loadableGenerated: {
-    webpack: () => [/*require.resolve*/(9551)],
+    webpack: () => [/*require.resolve*/(551)],
     modules: ["index.js -> " + "../components/GithubProfileCard"]
   }
 });
@@ -198,9 +198,9 @@ function Home({
       data: {
         title: "Godbless Onoriode",
         description: "A passionate Full Stack Web Developer and Mobile App Developer.",
-        image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-        url: "https://developer-portfolio-1Onosgb100.vercel.app",
-        keywords: ["Onosgb", "Onosgb Tauqeer", "@1Onosgb100", "1Onosgb100", "Portfolio", "Onosgb Portfolio ", "Onosgb  Portfolio", "web developer", "full stack", "full stack web developer", "mobile app developer", "android developer", "Nestjs  framework", "Angular  framework", "nodejs ", "expressjs", "reactjs ", "redux"]
+        image: "https://avatars.githubusercontent.com/u/21205258?v=4",
+        url: "https://onosgb.herokuapp.com",
+        keywords: ["Onosgb", "Onoriode Godbless", "Godbless Onoriode", "@onosgb25", "Onosgb", "Portfolio", "Onosgb Portfolio ", "Godbless Onoriode  Portfolio", "Onoriode Godbless Portfolio", "web developer", "full stack", "full stack web developer", "mobile app developer", "android developer", "Nestjs  framework", "Angular  framework", "nodejs ", "expressjs", "reactjs ", "redux"]
       }
     }), /*#__PURE__*/jsx_runtime_.jsx(Navigation, {}), /*#__PURE__*/jsx_runtime_.jsx(Greetings, {}), /*#__PURE__*/jsx_runtime_.jsx(Skills, {}), /*#__PURE__*/jsx_runtime_.jsx(Proficiency, {}), /*#__PURE__*/jsx_runtime_.jsx(Education, {}), /*#__PURE__*/jsx_runtime_.jsx(Experience, {}), /*#__PURE__*/jsx_runtime_.jsx(Feedbacks, {}), /*#__PURE__*/jsx_runtime_.jsx(Projects, {}), /*#__PURE__*/jsx_runtime_.jsx(GithubProfileCard, {
       prof: githubProfileData
@@ -221,7 +221,7 @@ async function getStaticProps(_) {
 
 /***/ }),
 
-/***/ 4644:
+/***/ 644:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 
@@ -397,7 +397,7 @@ const feedbacks = [{
 
 /***/ }),
 
-/***/ 3548:
+/***/ 548:
 /***/ ((module) => {
 
 module.exports = require("color-thief-react");
@@ -411,13 +411,6 @@ module.exports = require("headroom.js");
 
 /***/ }),
 
-/***/ 9325:
-/***/ ((module) => {
-
-module.exports = require("next/dist/server/denormalize-page-path.js");
-
-/***/ }),
-
 /***/ 822:
 /***/ ((module) => {
 
@@ -425,80 +418,17 @@ module.exports = require("next/dist/server/image-config.js");
 
 /***/ }),
 
-/***/ 6695:
+/***/ 695:
 /***/ ((module) => {
 
 module.exports = require("next/dist/shared/lib/head.js");
 
 /***/ }),
 
-/***/ 5378:
-/***/ ((module) => {
-
-module.exports = require("next/dist/shared/lib/i18n/normalize-locale-path.js");
-
-/***/ }),
-
-/***/ 2307:
+/***/ 307:
 /***/ ((module) => {
 
 module.exports = require("next/dist/shared/lib/loadable.js");
-
-/***/ }),
-
-/***/ 7162:
-/***/ ((module) => {
-
-module.exports = require("next/dist/shared/lib/mitt.js");
-
-/***/ }),
-
-/***/ 8773:
-/***/ ((module) => {
-
-module.exports = require("next/dist/shared/lib/router-context.js");
-
-/***/ }),
-
-/***/ 2248:
-/***/ ((module) => {
-
-module.exports = require("next/dist/shared/lib/router/utils/get-asset-path-from-route.js");
-
-/***/ }),
-
-/***/ 9372:
-/***/ ((module) => {
-
-module.exports = require("next/dist/shared/lib/router/utils/is-dynamic.js");
-
-/***/ }),
-
-/***/ 665:
-/***/ ((module) => {
-
-module.exports = require("next/dist/shared/lib/router/utils/parse-relative-url.js");
-
-/***/ }),
-
-/***/ 2747:
-/***/ ((module) => {
-
-module.exports = require("next/dist/shared/lib/router/utils/querystring.js");
-
-/***/ }),
-
-/***/ 333:
-/***/ ((module) => {
-
-module.exports = require("next/dist/shared/lib/router/utils/route-matcher.js");
-
-/***/ }),
-
-/***/ 3456:
-/***/ ((module) => {
-
-module.exports = require("next/dist/shared/lib/router/utils/route-regex.js");
 
 /***/ }),
 
@@ -509,42 +439,35 @@ module.exports = require("next/dist/shared/lib/to-base-64.js");
 
 /***/ }),
 
-/***/ 7620:
-/***/ ((module) => {
-
-module.exports = require("next/dist/shared/lib/utils.js");
-
-/***/ }),
-
-/***/ 9297:
+/***/ 297:
 /***/ ((module) => {
 
 module.exports = require("react");
 
 /***/ }),
 
-/***/ 9102:
+/***/ 102:
 /***/ ((module) => {
 
 module.exports = require("react-lottie");
 
 /***/ }),
 
-/***/ 9356:
+/***/ 356:
 /***/ ((module) => {
 
 module.exports = require("react-reveal");
 
 /***/ }),
 
-/***/ 5282:
+/***/ 282:
 /***/ ((module) => {
 
 module.exports = require("react/jsx-runtime");
 
 /***/ }),
 
-/***/ 6099:
+/***/ 99:
 /***/ ((module) => {
 
 module.exports = require("reactstrap");
@@ -558,7 +481,7 @@ module.exports = require("reactstrap");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [152], () => (__webpack_exec__(1152)));
+var __webpack_exports__ = __webpack_require__.X(0, [152], () => (__webpack_exec__(152)));
 module.exports = __webpack_exports__;
 
 })();

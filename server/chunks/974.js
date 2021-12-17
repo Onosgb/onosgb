@@ -3,7 +3,7 @@ exports.id = 974;
 exports.ids = [974];
 exports.modules = {
 
-/***/ 3974:
+/***/ 974:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 // ESM COMPAT FLAG
@@ -15,20 +15,20 @@ __webpack_require__.d(__webpack_exports__, {
 });
 
 // EXTERNAL MODULE: external "react"
-var external_react_ = __webpack_require__(9297);
+var external_react_ = __webpack_require__(297);
 // EXTERNAL MODULE: ./portfolio.js + 1 modules
-var portfolio = __webpack_require__(4644);
+var portfolio = __webpack_require__(644);
 // EXTERNAL MODULE: external "reactstrap"
-var external_reactstrap_ = __webpack_require__(6099);
+var external_reactstrap_ = __webpack_require__(99);
 // EXTERNAL MODULE: external "react-reveal"
-var external_react_reveal_ = __webpack_require__(9356);
+var external_react_reveal_ = __webpack_require__(356);
 // EXTERNAL MODULE: external "color-thief-react"
-var external_color_thief_react_ = __webpack_require__(3548);
+var external_color_thief_react_ = __webpack_require__(548);
 var external_color_thief_react_default = /*#__PURE__*/__webpack_require__.n(external_color_thief_react_);
 // EXTERNAL MODULE: ./node_modules/next/image.js
-var next_image = __webpack_require__(5675);
+var next_image = __webpack_require__(675);
 // EXTERNAL MODULE: external "react/jsx-runtime"
-var jsx_runtime_ = __webpack_require__(5282);
+var jsx_runtime_ = __webpack_require__(282);
 ;// CONCATENATED MODULE: ./components/ExperienceCard.jsx
 
 

@@ -3,7 +3,7 @@ exports.id = 519;
 exports.ids = [519];
 exports.modules = {
 
-/***/ 3519:
+/***/ 519:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 // ESM COMPAT FLAG
@@ -15,15 +15,15 @@ __webpack_require__.d(__webpack_exports__, {
 });
 
 // EXTERNAL MODULE: ./portfolio.js + 1 modules
-var portfolio = __webpack_require__(4644);
+var portfolio = __webpack_require__(644);
 // EXTERNAL MODULE: external "react"
-var external_react_ = __webpack_require__(9297);
+var external_react_ = __webpack_require__(297);
 // EXTERNAL MODULE: external "reactstrap"
-var external_reactstrap_ = __webpack_require__(6099);
+var external_reactstrap_ = __webpack_require__(99);
 // EXTERNAL MODULE: external "react-reveal"
-var external_react_reveal_ = __webpack_require__(9356);
+var external_react_reveal_ = __webpack_require__(356);
 // EXTERNAL MODULE: external "react/jsx-runtime"
-var jsx_runtime_ = __webpack_require__(5282);
+var jsx_runtime_ = __webpack_require__(282);
 ;// CONCATENATED MODULE: ./components/FeedbackCard.jsx
 
 
