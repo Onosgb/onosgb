@@ -5,11 +5,11 @@
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/1hanzla100/developer-portfolio/blob/master/picture.PNG"></img>
+    <img src="https://github.com/1hanzla100/developer-portfolio/picture.PNG"></img>
   </kbd>
 </p>
 
-### To view a live example, **[click here](https://developer-portfolio.1hanzla100.vercel.app/)**.
+### To view a live example, **[click here](https://onosgb.herokuapp.com)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
@@ -58,7 +58,7 @@ From your command line, clone and run developer-portolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/1hanzla100/developer-portfolio.git
+$ git clone https://github.com/onosgb/onosgb.git
 
 # Go into the repository
 $ cd developer-portfolio
@@ -96,22 +96,13 @@ For adding emoji 😃 into the texts in `Portfolio.js`, use the `emoji()` functi
 
 -   [Lottie File Source](https://lottiefiles.com)
 
-## For the Future
-
-If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/saadpasta/developerFolio/pulls).
-
--   Enable Dark Mode
-
--   Add More Sections
-
-## Author
 
 👤 **Hanzla Tauqeer**
 
--   Website: https://hanzla.netlify.app
--   Twitter: [@1hanzla100](https://twitter.com/1hanzla100)
--   Github: [@1hanzla100](https://github.com/1hanzla100)
--   LinkedIn: [@1hanzla100](https://linkedin.com/in/1hanzla100)
+-   Website: https://onosgb.herokuapp.com
+-   Twitter: [@1hanzla100](https://twitter.com/onosgb25)
+-   Github: [@1hanzla100](https://github.com/onosgb)
+-   LinkedIn: [@1hanzla100](https://www.linkedin.com/in/godbless-onoriode-a33587127/)
 
 ## Show your support
 

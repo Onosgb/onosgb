@@ -11,7 +11,7 @@
 		"build": "next build",
 		"start": "next start",
 		"predeploy": "yarn build",
-		"deploy": "gh-pages -d build",
+		"deploy": "gh-pages -d .next",
 		"lint": "next lint"
 	},
 	"dependencies": {
