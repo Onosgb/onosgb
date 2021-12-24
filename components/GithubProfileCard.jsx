@@ -3,8 +3,6 @@ import React from "react";
 import { Card, Col, Row, Container } from "reactstrap";
 
 import SocialLinks from "../components/SocialLinks";
-import Image from "next/image";
-
 const GithubProfileCard = ({ prof }) => {
 	return (
 		<Card className="section-lg bg-gradient-info shadow-lg border-0">

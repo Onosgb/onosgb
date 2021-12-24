@@ -5,7 +5,7 @@ export const greetings = {
 	title: "Hi all, I'm Godbless",
 	description:
 		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Angular / Nestjs / Ionic and some other cool libraries and frameworks and Cross Platform Mobile Apps With Angular.",
-	resumeLink: "https://1drv.ms/b/s!AqTK0czETeAdg6Uk8JmfTjRxuYI0Dg",
+	resumeLink: "https://1drv.ms/b/s!AqTK0czETeAdg6c2lrUtV3ThYo6mFA?e=WVsYVf",
 };
 
 export const openSource = {
@@ -208,7 +208,7 @@ export const feedbacks = [
 	{
 		name: "Joel Stanley",
 		feedback:
-			"We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Hanzla tauqeer has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
+			"We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Onos has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
 	},
 	{
 		name: "Daniel Ndubuisi",
