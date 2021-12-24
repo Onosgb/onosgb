@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Godbless Onoriode",
 	title: "Hi all, I'm Godbless",
 	description:
-		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Angular / Nestjs / Ionic and some other cool libraries and frameworks and Cross Platform Mobile Apps With Angular.",
+		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript/ PHP / Reactjs / Nodejs / Angular / Nestjs / Laravel/ Ionic and some other cool libraries and frameworks and Cross Platform Mobile Apps With Angular.",
 	resumeLink: "https://1drv.ms/b/s!AqTK0czETeAdg6c2lrUtV3ThYo6mFA?e=WVsYVf",
 };
 
