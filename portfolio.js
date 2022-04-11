@@ -154,9 +154,11 @@ export const experience = [
     date: "NOV 2018 – Present ",
     desc: "Managing Existing ESP Projects",
     descBullets: [
-      "Schoo portals",
-      "Learning Management System",
-      "Enterprise Management System",
+      "I added new features based on requirements",
+      "I fixed bugs and maintained existing projects",
+      "I provided several support and training opportunities",
+      "I collaborated with developers and designers, business development, data analysts, operations, project support officers, project managers, stakeholders, and quality assurance.",
+      "I was involved in carrying out our continuous measurement, identification, and improvement of processes",
     ],
   },
   {
@@ -164,7 +166,11 @@ export const experience = [
     company: "Molloy Travel",
     companylogo: "/img/icons/common/github.svg",
     date: "FEB 2018 – NOV 2018 ",
-    descBullets: ["Church Solution Portal", "E-Voting System"],
+    descBullets: [
+      "Promoted within 12 months of strong job performance - ahead of schedule by 8 Months ",
+      "Developed customer segmentation algorithm in R which increased sales leads by 32% leading to an increased market share",
+      "Increased digital sales by improving e-commerce experience on existing websites through 25+ A/B tests, resulting in 200% increase in online orders the following year, ahead of schedule by 6 months.",
+    ],
   },
   {
     role: "Frontend Developer",
@@ -172,7 +178,11 @@ export const experience = [
     companylogo: "/img/icons/common/airbnbLogo.png",
     date: "OCT 2017 - FEB 2018",
     desc: "New and existing VAS Applications",
-    descBullets: ["Web applicaton development", "Record management System"],
+    descBullets: [
+      "Followed up the execution of VAS related projects",
+      "Checkup and maintained the application operational states",
+      "Backup VAS services and databases",
+    ],
   },
 ];
 
