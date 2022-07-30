@@ -4,8 +4,8 @@ export const greetings = {
   name: "Godbless Onoriode",
   title: "Hi all, I'm Godbless",
   description:
-    "A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript/ PHP / Reactjs / Nodejs / Angular / Nestjs / Laravel/ Ionic and some other cool libraries and frameworks and Cross Platform Mobile Apps With Angular.",
-  resumeLink: "https://1drv.ms/w/s!AqTK0czETeAdg61yUX8EI3p9FQ9D1w?e=YhfcSi",
+    "A passionate Full Stack Web Developer having an experience of building Web applications with Angular/ Reactjs / Nodejs/ Nestjs/ Ionic and some other cool libraries and frameworks and Cross Platform Mobile Apps With Angular.",
+  resumeLink: "https://1drv.ms/w/s!AqTK0czETeAdjNV_X7C6bWViuAOQ2Q?e=pcvOXe",
 };
 
 export const openSource = {
@@ -89,10 +89,7 @@ export const skillsSection = {
       skillName: "firebase",
       fontAwesomeClassname: "logos:firebase",
     },
-    {
-      skillName: "laravel",
-      fontAwesomeClassname: "logos:laravel",
-    },
+   
     {
       skillName: "php",
       fontAwesomeClassname: "logos:php",
@@ -188,16 +185,11 @@ export const experience = [
 
 export const projects = [
   {
-    name: "Crown Clothing",
-    desc: "Site where you visit to buy Men and women wears, pay using your card",
-    link: "https://crown-clothing-sales.herokuapp.com",
+    name: "ZAZZI",
+    desc: "E Commerce application",
+    link: "https://aquamarine-lolly-27e298.netlify.app/",
   },
-  {
-    name: "Monster Rolodex",
-    desc: "Application that display the image of monsters based on their name",
-    github: "https://github.com/Onosgb/monster-rolodex",
-    link: "https://onosgb.github.io/monster-rolodex/",
-  },
+  
   {
     name: "Weather app",
     desc: "The applicaion is used to display the weather conditions in your evniroment",
