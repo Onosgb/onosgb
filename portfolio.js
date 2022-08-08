@@ -193,8 +193,8 @@ export const projects = [
   {
     name: "Fidelity",
     desc: "This bank applicaton was build to test my angular skill, your are free to make any comment by sending me a mail",
-    github: "https://bank-app-theta.vercel.app/",
-    link: "https://github.com/Onosgb/bank-app",
+    github: "https://github.com/Onosgb/bank-app",
+    link: "https://bank-app-theta.vercel.app ",
   },
 ];
 
