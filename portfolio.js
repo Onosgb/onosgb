@@ -187,6 +187,7 @@ export const projects = [
   {
     name: "ZAZZI",
     desc: "E Commerce application",
+    github: "https://github.com/Onosgb/ecommerce-app",
     link: "https://aquamarine-lolly-27e298.netlify.app/",
   },
 
