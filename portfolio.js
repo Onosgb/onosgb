@@ -89,7 +89,7 @@ export const skillsSection = {
       skillName: "firebase",
       fontAwesomeClassname: "logos:firebase",
     },
-   
+
     {
       skillName: "php",
       fontAwesomeClassname: "logos:php",
@@ -189,12 +189,12 @@ export const projects = [
     desc: "E Commerce application",
     link: "https://aquamarine-lolly-27e298.netlify.app/",
   },
-  
+
   {
-    name: "Weather app",
-    desc: "The applicaion is used to display the weather conditions in your evniroment",
-    github: "https://github.com/Onosgb/weatherfinder",
-    // link: "https://example.com",
+    name: "Fidelity",
+    desc: "This bank applicaton was build to test my angular skill, your are free to make any comment by sending me a mail",
+    github: "https://bank-app-theta.vercel.app/",
+    link: "https://github.com/Onosgb/bank-app",
   },
 ];
 
