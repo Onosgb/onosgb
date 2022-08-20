@@ -185,10 +185,10 @@ export const experience = [
 
 export const projects = [
   {
-    name: "ZAZZI",
-    desc: "E Commerce application",
-    github: "https://github.com/Onosgb/ecommerce-app",
-    link: "https://aquamarine-lolly-27e298.netlify.app/",
+    name: "Crypto Hunter",
+    desc: "Application for tracking crypto currency and their current price",
+    github: "https://github.com/Onosgb/crypto-hunter",
+    link: "https://crypto-hunter-six.vercel.app/",
   },
 
   {
