@@ -183,15 +183,16 @@ export const projects = [
 
   {
     name: "Fidelity",
-    desc: "This bank applicaton was build to test my angular skill, your are free to make any comment by sending me a mail",
+    desc: "The bank application allows users to register and login, make payments within the application, as well as view and print their previous payment history.",
     github: "https://github.com/Onosgb/bank-app",
     link: "https://bank-app-theta.vercel.app ",
   },
+
   {
     name: "Rivers State Ministry",
-    desc: "Rivers State management application to manage the affiars of all ministry such as Contract management, task management, and Accounting etc. Email: onosgb@gmail.com, password: jamesauthor@gmail.com",
+    desc: "A management application was developed for Rivers State to help manage the affairs of various ministries, including contract management, task management, accounting, and other related functions. Log In details: Email: onosgb@gmail.com, password: jamesauthor@gmail.com",
     github: "",
-    link: "rvsm.onrender.com",
+    link: "https://rvsm.onrender.com",
   },
 ];
 
