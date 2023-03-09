@@ -145,11 +145,11 @@ export const educationInfo = [
 
 export const experience = [
   {
-    role: "Software Engineer",
+    role: "Full Stack Developer",
     company: "M-R International (MrSoft",
     companylogo: "/img/icons/common/google.svg",
     date: "NOV 2018 – Present ",
-    desc: "Managing Existing ESP Projects",
+    desc: "Responsibilities",
     descBullets: [
       "Develop and maintain web applications using JavaScript, TypeScript, HTML, CSS, Angular, Node.js, React, MongoDB, Postgres, MSSQL, and AWS.",
       "Collaborate with cross-functional teams to deliver high-quality software solutions",
@@ -160,11 +160,11 @@ export const experience = [
     ],
   },
   {
-    role: "Software Developer",
+    role: "Full Stack Developer",
     company: "Freelance",
     companylogo: "/img/icons/common/github.svg",
     date: "FEB 2018 – NOV 2018 ",
-    desc: "",
+    desc: "Responsibilities",
     descBullets: [
       " I Successfully integrated a third-party payment gateway into the application, enabling seamless payments for users",
       "I Implemented a caching mechanism that improved the application's performance by reducing the load on the server by 50%",
