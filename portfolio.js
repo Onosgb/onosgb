@@ -5,7 +5,7 @@ export const greetings = {
   title: "Hi all, I'm Godbless",
   description:
     "I'm a passionate Full Stack Web Developer having an experience of building Web applications with Angular/ Reactjs / Nodejs/ Nestjs/ Ionic and some other cool libraries and frameworks and Cross Platform Mobile Apps With Angular.",
-  resumeLink: "https://1drv.ms/b/s!AqTK0czETeAdjNYBc2SHMd8JpetKyA?e=e8wVoF",
+  resumeLink: "https://1drv.ms/b/s!AqTK0czETeAdjONkkYATyUHgv78u5Q?e=0NizSn",
 };
 
 export const openSource = {
@@ -17,8 +17,8 @@ export const contact = {};
 export const socialLinks = {
   facebook: "https://web.facebook.com/onosgb",
   instagram: "https://www.instagram.com/onosgb/",
-  twitter: "https://twitter.com/onosgb25",
-  github: "https://github.com/Onosgb",
+  twitter: "https://twitter.com/onosgb",
+  github: "https://github.com/onosgb",
   linkedin: "https://www.linkedin.com/in/godbless-onoriode-a33587127/",
 };
 
@@ -124,7 +124,7 @@ export const educationInfo = [
   {
     schoolName: "Imo State Polytecnic",
     subHeader: "Higher National Diploma (HND) in Computer Science",
-    duration: "November 2014 - August 2016",
+    duration: "November 2014 - October 2016",
     desc: "Participated in the research of Design and implementation of online social network.",
     // descBullets: [
     // 	"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
@@ -151,34 +151,24 @@ export const experience = [
     date: "NOV 2018 – Present ",
     desc: "Managing Existing ESP Projects",
     descBullets: [
-      "I added new features based on requirements",
-      "I fixed bugs and maintained existing projects",
-      "I provided several support and training opportunities",
-      "I collaborated with developers and designers, business development, data analysts, operations, project support officers, project managers, stakeholders, and quality assurance.",
-      "I was involved in carrying out our continuous measurement, identification, and improvement of processes",
+      "Develop and maintain web applications using JavaScript, TypeScript, HTML, CSS, Angular, Node.js, React, MongoDB, Postgres, MSSQL, and AWS.",
+      "Collaborate with cross-functional teams to deliver high-quality software solutions",
+      "Conduct code reviews and ensure adherence to coding standards",
+      "Participate in the entire software development life cycle",
+      "Troubleshoot and debug applications.",
+      "Implement security measures to protect applications from external threats Mentor and train junior developers",
     ],
   },
   {
     role: "Software Developer",
-    company: "Molloy Travel",
+    company: "Freelance",
     companylogo: "/img/icons/common/github.svg",
     date: "FEB 2018 – NOV 2018 ",
+    desc: "",
     descBullets: [
-      "Promoted within 12 months of strong job performance - ahead of schedule by 8 Months ",
-      "Developed customer segmentation algorithm in R which increased sales leads by 32% leading to an increased market share",
-      "Increased digital sales by improving e-commerce experience on existing websites through 25+ A/B tests, resulting in 200% increase in online orders the following year, ahead of schedule by 6 months.",
-    ],
-  },
-  {
-    role: "Frontend Developer",
-    company: "Business System Solutions Limited ",
-    companylogo: "/img/icons/common/airbnbLogo.png",
-    date: "OCT 2017 - FEB 2018",
-    desc: "New and existing VAS Applications",
-    descBullets: [
-      "Followed up the execution of VAS related projects",
-      "Checkup and maintained the application operational states",
-      "Backup VAS services and databases",
+      " I Successfully integrated a third-party payment gateway into the application, enabling seamless payments for users",
+      "I Implemented a caching mechanism that improved the application's performance by reducing the load on the server by 50%",
+      "Increased digital sales by improving e-commerce experience on existing websites through 25+ A/B tests, resulting in 60% increase in online orders the following year, ahead of schedule by 6 months.",
     ],
   },
 ];
@@ -196,6 +186,12 @@ export const projects = [
     desc: "This bank applicaton was build to test my angular skill, your are free to make any comment by sending me a mail",
     github: "https://github.com/Onosgb/bank-app",
     link: "https://bank-app-theta.vercel.app ",
+  },
+  {
+    name: "Rivers State Ministry",
+    desc: "Rivers State management application to manage the affiars of all ministry such as Contract management, task management, and Accounting etc. Email: onosgb@gmail.com, password: jamesauthor@gmail.com",
+    github: "",
+    link: "rvsm.onrender.com",
   },
 ];
 
