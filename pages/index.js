@@ -23,7 +23,7 @@ export default function Home({ githubProfileData }) {
           description:
             "A passionate Full Stack Web Developer and Mobile App Developer.",
           image: "https://avatars.githubusercontent.com/u/21205258?v=4",
-          url: "https://onosgb.herokuapp.com",
+          url: "https://onosgb.onrender.com",
           keywords: [
             "Onosgb",
             "Onoriode Godbless",
@@ -36,6 +36,7 @@ export default function Home({ githubProfileData }) {
             "Onoriode Godbless Portfolio",
 
             "web developer",
+            "web development",
             "full stack",
             "full stack web developer",
             "mobile app developer",
@@ -45,6 +46,7 @@ export default function Home({ githubProfileData }) {
             "nodejs ",
             "expressjs",
             "reactjs ",
+            "react ",
             "redux",
           ],
         }}
