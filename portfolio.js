@@ -175,6 +175,19 @@ export const experience = [
 
 export const projects = [
   {
+    name: "Ignatius Ajuru University of Education",
+    desc: "School website built with wordpress, to manage the content of the university",
+    github: "",
+    link: "https://iauoe.edu.ng",
+  },
+
+  {
+    name: "University of Port Harcourt Business School",
+    desc: "The purpose of this Portal is to oversee the administration of short programmes offered by the University of Port Harcourt Business School.",
+    github: "",
+    link: "http://odelportal.uniport.edu.ng",
+  },
+  {
     name: "Crypto Hunter",
     desc: "Application for tracking crypto currency and their current price",
     github: "https://github.com/Onosgb/crypto-hunter",
