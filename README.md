@@ -8,21 +8,21 @@
   </kbd>
 </p>
 
-### To view a live example, **[click here](https://onosgb.herokuapp.com)**.
+### To view a live example, **[click here](http://onosgb.onrender.com)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
 ## Table of Contents
 
--   [Sections](#sections)
--   [Getting Started](#getting-started)
--   [How to Use](#how-to-use)
--   [Linking portfolio to Github](#linking-portfolio-to-github)
--   [Change and Customize](#change-and-customize-every-section-according-to-your-need)
--   [Technologies Used](#technologies-used)
--   [Illustrations](#illustrations)
--   [For the Future](#for-the-future)
--   [Contributors](#project-maintainers)
+- [Sections](#sections)
+- [Getting Started](#getting-started)
+- [How to Use](#how-to-use)
+- [Linking portfolio to Github](#linking-portfolio-to-github)
+- [Change and Customize](#change-and-customize-every-section-according-to-your-need)
+- [Technologies Used](#technologies-used)
+- [Illustrations](#illustrations)
+- [For the Future](#for-the-future)
+- [Contributors](#project-maintainers)
 
 ## Sections
 
@@ -78,26 +78,25 @@ For adding emoji 😃 into the texts in `Portfolio.js`, use the `emoji()` functi
 
 ## Technologies Used
 
--   [Next.js](https://nextjs.org/)
--   [axios](https://www.npmjs.com/package/axios)
--   [reactstrap](https://reactstrap.github.io/)
--   [react-reveal](https://www.react-reveal.com/)
--   [react-lottie](https://www.npmjs.com/package/react-lottie)
--   [react-easy-emoji](https://github.com/appfigures/react-easy-emoji)
--   [react-headroom](https://github.com/KyleAMathews/react-headroom)
--   [color-thief](https://github.com/lokesh/color-thief)
+- [Next.js](https://nextjs.org/)
+- [axios](https://www.npmjs.com/package/axios)
+- [reactstrap](https://reactstrap.github.io/)
+- [react-reveal](https://www.react-reveal.com/)
+- [react-lottie](https://www.npmjs.com/package/react-lottie)
+- [react-easy-emoji](https://github.com/appfigures/react-easy-emoji)
+- [react-headroom](https://github.com/KyleAMathews/react-headroom)
+- [color-thief](https://github.com/lokesh/color-thief)
 
 ## Illustrations
 
--   [Lottie File Source](https://lottiefiles.com)
-
+- [Lottie File Source](https://lottiefiles.com)
 
 👤 **Godbless Onoriode**
 
--   Website: https://onosgb.herokuapp.com
--   Twitter: [@onosgb25](https://twitter.com/onosgb25)
--   Github: [@onosgb](https://github.com/onosgb)
--   LinkedIn: [@godbless-onoriode-a33587127](https://www.linkedin.com/in/godbless-onoriode-a33587127/)
+- Website: http://onosgb.onrender.com/
+- Twitter: [@onosgb25](https://twitter.com/onosgb25)
+- Github: [@onosgb](https://github.com/onosgb)
+- LinkedIn: [@godbless-onoriode-a33587127](https://www.linkedin.com/in/godbless-onoriode-a33587127/)
 
 ## Show your support
 
