@@ -2,10 +2,10 @@ import emoji from "react-easy-emoji";
 
 export const greetings = {
   name: "Godbless Onoriode",
-  title: "Hi all, I'm Godbless",
+  title: "Hi! I'm Godbless",
   description:
     "I'm a passionate Full Stack Web Developer having an experience of building Web applications with Angular/ Reactjs / Nodejs/ Nestjs/ Ionic and some other cool libraries and frameworks and Cross Platform Mobile Apps With Angular.",
-  resumeLink: "https://1drv.ms/b/s!AqTK0czETeAdjONkkYATyUHgv78u5Q?e=0NizSn",
+  resumeLink: "https://1drv.ms/b/s!AqTK0czETeAdjOtioGLSKJckubIvmg?e=0O4qHA",
 };
 
 export const openSource = {
@@ -175,6 +175,19 @@ export const experience = [
 
 export const projects = [
   {
+    name: "Ignatius Ajuru University of Education",
+    desc: "School website built with wordpress, to manage the content of the university",
+    github: "",
+    link: "https://iauoe.edu.ng",
+  },
+
+  {
+    name: "University of Port Harcourt Business School",
+    desc: "The purpose of this Portal is to oversee the administration of short programmes offered by the University of Port Harcourt Business School.",
+    github: "",
+    link: "http://odelportal.uniport.edu.ng",
+  },
+  {
     name: "Crypto Hunter",
     desc: "Application for tracking crypto currency and their current price",
     github: "https://github.com/Onosgb/crypto-hunter",
@@ -192,7 +205,14 @@ export const projects = [
     name: "Rivers State Ministry",
     desc: "A management application was developed for Rivers State to help manage the affairs of various ministries, including contract management, task management, accounting, and other related functions. Log In details: Email: onosgb@gmail.com, password: jamesauthor@gmail.com",
     github: "",
-    link: "https://rvsm.onrender.com",
+    link: "https://rvsm-pi.vercel.app",
+  },
+
+  {
+    name: "Crypto Wallets",
+    desc: "This is a system for managing crypto wallets that allows users to sign up, register, update their profile information, and unlock crypto trading. After requesting access, the user will receive a token via email, which must be confirmed before they can engage in crypto trading.",
+    github: "",
+    link: "https://rtncrypto.vercel.app/",
   },
 ];
 
