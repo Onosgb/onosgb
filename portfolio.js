@@ -4,8 +4,8 @@ export const greetings = {
   name: "Godbless Onoriode",
   title: "Hi! I'm Godbless",
   description:
-    "I'm a passionate Full Stack Web Developer having an experience of building Web applications with Angular/ Reactjs / Nodejs/ Nestjs/ Ionic and some other cool libraries and frameworks and Cross Platform Mobile Apps With Angular.",
-  resumeLink: "https://1drv.ms/b/s!AqTK0czETeAdjOtioGLSKJckubIvmg?e=0O4qHA",
+    "Found at shelterlinks.com, I'm a passionate full-stack web developer with extensive experience in building robust web applications using cutting-edge technologies like Angular, ReactJS, NodeJS, NestJS, Ionic, and other innovative libraries and frameworks. My expertise also spans cross-platform mobile app development with Angular, empowering me to craft seamless user experiences across various platforms.",
+  resumeLink: "https://1drv.ms/b/s!AqTK0czETeAdjahjBhCT_tYgS9Y89g?e=LZae0b",
 };
 
 export const openSource = {
@@ -146,12 +146,28 @@ export const educationInfo = [
 export const experience = [
   {
     role: "Full Stack Developer",
-    company: "M-R International (MrSoft",
-    companylogo: "/img/icons/common/google.svg",
+    company: "M-R International (MrSoft)",
+    companylogo: "/img/transparentlogo.png",
     date: "NOV 2018 – Present ",
     desc: "Responsibilities",
     descBullets: [
       "Develop and maintain web applications using JavaScript, TypeScript, HTML, CSS, Angular, Node.js, React, MongoDB, Postgres, MSSQL, and AWS.",
+      "Collaborate with cross-functional teams to deliver high-quality software solutions",
+      "Conduct code reviews and ensure adherence to coding standards",
+      "Participate in the entire software development life cycle",
+      "Troubleshoot and debug applications.",
+      "Implement security measures to protect applications from external threats Mentor and train junior developers",
+    ],
+  },
+  {
+    role: "Founder and CEO",
+    company: "Shelter links",
+    companylogo: "/img/logo.png",
+    date: "NOV 2023 – Present ",
+    desc: "Responsibilities",
+    descBullets: [
+      "Lead the development team and found of the company",
+      "Develop and maintain web applications using JavaScript, TypeScript, HTML, CSS, Flutter, Next.js, Supabase, Postgres, Supabase Deno.",
       "Collaborate with cross-functional teams to deliver high-quality software solutions",
       "Conduct code reviews and ensure adherence to coding standards",
       "Participate in the entire software development life cycle",
@@ -175,17 +191,23 @@ export const experience = [
 
 export const projects = [
   {
+    name: "Shelter Links",
+    desc: "At Shelter Links we facilitate property connections between buyers, sellers, and renters with experienced agents",
+    github: "",
+    link: "https://shelterlinks.com",
+  },
+  {
     name: "Ignatius Ajuru University of Education",
     desc: "School website built with wordpress, to manage the content of the university",
     github: "",
-    link: "https://iauoe.edu.ng",
+    link: "https://iaue.edu.ng",
   },
 
   {
     name: "University of Port Harcourt Business School",
     desc: "The purpose of this Portal is to oversee the administration of short programmes offered by the University of Port Harcourt Business School.",
     github: "",
-    link: "http://odelportal.uniport.edu.ng",
+    link: "https://odel.uniport.edu.ng/",
   },
   {
     name: "Crypto Hunter",
