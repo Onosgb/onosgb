@@ -164,7 +164,7 @@ export const experience = [
     role: "Frontend Developer (FE)",
     company: "Primed E-Health",
     companylogo: "/img/icons/common/google.svg",
-    date: "NOV 2018 – Present ",
+    date: "OCT 2023 – May 2024",
     desc: "Responsibilities",
     descBullets: [
       "I Develop and maintain web applications using  TypeScript, HTML, CSS, Angular, NGRX",
