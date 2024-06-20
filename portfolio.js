@@ -145,21 +145,6 @@ export const educationInfo = [
 
 export const experience = [
   {
-    role: "Full Stack Developer",
-    company: "M-R International (MrSoft)",
-    companylogo: "/img/transparentlogo.png",
-    date: "NOV 2018 – Present ",
-    desc: "Responsibilities",
-    descBullets: [
-      "Develop and maintain web applications using JavaScript, TypeScript, HTML, CSS, Angular, Node.js, React, MongoDB, Postgres, MSSQL, and AWS.",
-      "Collaborate with cross-functional teams to deliver high-quality software solutions",
-      "Conduct code reviews and ensure adherence to coding standards",
-      "Participate in the entire software development life cycle",
-      "Troubleshoot and debug applications.",
-      "Implement security measures to protect applications from external threats Mentor and train junior developers",
-    ],
-  },
-  {
     role: "Founder and CEO",
     company: "Shelter links",
     companylogo: "/img/logo.png",
@@ -175,6 +160,22 @@ export const experience = [
       "Implement security measures to protect applications from external threats Mentor and train junior developers",
     ],
   },
+  {
+    role: "Full Stack Developer",
+    company: "M-R International (MrSoft)",
+    companylogo: "/img/transparentlogo.png",
+    date: "NOV 2018 – Present ",
+    desc: "Responsibilities",
+    descBullets: [
+      "Develop and maintain web applications using JavaScript, TypeScript, HTML, CSS, Angular, Node.js, React, MongoDB, Postgres, MSSQL, and AWS.",
+      "Collaborate with cross-functional teams to deliver high-quality software solutions",
+      "Conduct code reviews and ensure adherence to coding standards",
+      "Participate in the entire software development life cycle",
+      "Troubleshoot and debug applications.",
+      "Implement security measures to protect applications from external threats Mentor and train junior developers",
+    ],
+  },
+
   {
     role: "Full Stack Developer",
     company: "Freelance",
