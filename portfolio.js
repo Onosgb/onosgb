@@ -146,7 +146,7 @@ export const educationInfo = [
 export const experience = [
   {
     role: "Founder and CEO",
-    company: "Shelter links",
+    company: "Shelterlinks",
     companylogo: "/img/logo.png",
     date: "NOV 2023 – Present ",
     desc: "Responsibilities",
