@@ -5,7 +5,8 @@ export const greetings = {
   title: "Hi! I'm Godbless",
   description:
     "Found at shelterlinks.com, I'm a passionate full-stack web developer with extensive experience in building robust web applications using cutting-edge technologies like Angular, ReactJS, NodeJS, NestJS, Ionic, and other innovative libraries and frameworks. My expertise also spans cross-platform mobile app development with Angular, empowering me to craft seamless user experiences across various platforms.",
-  resumeLink: "https://1drv.ms/b/s!AqTK0czETeAdjahjBhCT_tYgS9Y89g?e=LZae0b",
+  resumeLink:
+    "https://1drv.ms/b/c/1de04dc4ccd1caa4/ESCP_JPFPvtJiZv3VH-JdOsBw_NES999w6IZ5lbtOlGElg?e=LrV5WS",
 };
 
 export const openSource = {
@@ -19,7 +20,7 @@ export const socialLinks = {
   instagram: "https://www.instagram.com/onosgb/",
   twitter: "https://twitter.com/onosgb",
   github: "https://github.com/onosgb",
-  linkedin: "https://www.linkedin.com/in/godbless-onoriode-a33587127/",
+  linkedin: "https://www.linkedin.com/in/onosgb",
 };
 
 export const skillsSection = {
@@ -112,7 +113,7 @@ export const SkillBars = [
   },
   {
     Stack: "Backend",
-    progressPercentage: "70",
+    progressPercentage: "80",
   },
   {
     Stack: "Programming",
